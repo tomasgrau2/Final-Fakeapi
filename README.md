@@ -3,7 +3,7 @@
 
 Repositorio de proyecto Fastapi para la cátedra Diseño de Sistemas
 
-**Instalacion**
+**Instalación**
 ---
 
 1. Instalar ejecutando el archivo `install.sh`.
